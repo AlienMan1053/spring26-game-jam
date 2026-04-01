@@ -20,7 +20,7 @@ For beginners, game jams are a great way to learn by doing. You don’t need to 
 Most jams (like this one) allow you to use existing tools or assets, so you can focus on learning and finishing a small project. The goal isn’t perfection! It’s to complete something, gain experience, and have fun.
 
 This video gives a nice overview:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3QYq0HOneIg?si=G8r7SHV0NNSFuqB3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/3QYq0HOneIg?si=G8r7SHV0NNSFuqB3
 
 
 ## Rules
@@ -104,7 +104,7 @@ https://www.youtube.com/embed/blLLtdv4tvo?si=lXQ7dtIKV_k7Src1
 
 If you haven't used VSCode before, you should probably familiarize yourself with it if you are going to build your game using PyGame.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9o4gDQvVkLU?si=odk4pwgKAfwjVAjH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/9o4gDQvVkLU?si=odk4pwgKAfwjVAjH
 
 **2. Godot**
 
