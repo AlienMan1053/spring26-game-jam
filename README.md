@@ -12,12 +12,21 @@ Register here by Apr 5: https://forms.office.com/r/bL9EjDPFmX
 
 You must join the Discord server to participate!
 
+You will need a GitHub account to collaborate and submit.
+
 ## What is a Game Jam?
 A game jam is a short, time-limited event where developers, artists, and designers collaborate to create a video game. Participants usually work around a shared theme, encouraging creativity, experimentation, and rapid prototyping rather than polished final products.
 
 For beginners, game jams are a great way to learn by doing. You don’t need to be an expert. Many people join with little or no experience. You can work solo or in a team, and roles can include programming, art, music, writing, or game design. 
 
 Most jams (like this one) allow you to use existing tools or assets, so you can focus on learning and finishing a small project. The goal isn’t perfection! It’s to complete something, gain experience, and have fun.
+
+Some game jam entries go on to become fully published games, such as...
+- Baba Is You
+- Celeste
+- Superhot
+- Hollow Knight
+- Surgeon Simulator
 
 This video gives a nice overview:
 https://www.youtube.com/embed/3QYq0HOneIg?si=G8r7SHV0NNSFuqB3
@@ -44,19 +53,19 @@ https://www.youtube.com/embed/3QYq0HOneIg?si=G8r7SHV0NNSFuqB3
 - Research and ask questions!
 
 ## Schedule
-> Before the Jam:
+Before the Jam:
 - Register
 - Join Discord Server
 - Familiarize with any tools you plan to use (see Resources below)
 - Brainstorm ideas
 
-> **Apr 6 (Monday): Virtual Kickoff Meeting**
+**Apr 6 (Monday): Virtual Kickoff Meeting**
 - 10:30 AM on Discord
 - We will go over rules, give advice, and announce the theme
 - Repository setup
 - Start working on the game!
 
-> **Apr 6-9 (Mon-Thurs)**
+**Apr 6-9 (Mon-Thurs)**
 - Work on the game
 - Mini devlog updates at the end of each day
 - Playtest sessions if you want to share your game!
@@ -66,7 +75,7 @@ https://www.youtube.com/embed/3QYq0HOneIg?si=G8r7SHV0NNSFuqB3
 
 > 🚨 **Submission deadline: 4/10 by 8:00 AM**
 
-> **Final Day (Fri 4/10): Showcase + Contest**
+**Final Day (Fri 4/10): Showcase + Contest**
 * Presentations:
   * Each team will deliver a brief (~5 min) overview of their game and process
 * Judging:
@@ -78,7 +87,7 @@ https://www.youtube.com/embed/3QYq0HOneIg?si=G8r7SHV0NNSFuqB3
   * 🧠 Most Creative
   * 😂 Funniest Game
   * 🧩 Best Use of Theme
-* Playtesting sessions
+* Playtesting session to try out each others' games!
 
 Even if you don’t win, we are looking for more games to add to the arcade! Talk to us about adding your game to the Mocs Arcade.
 
@@ -99,11 +108,14 @@ Pygame is a free, open-source library for making 2D games in Python.
 - Handles graphics, sound, input, and basic game logic
 - Beginner-friendly. Start with just Python knowledge
 
+[Pygame Community Edition Official Site](https://pypi.org/project/pygame-ce/)
+
 Pygame basic tutorial:
 https://www.youtube.com/embed/blLLtdv4tvo?si=lXQ7dtIKV_k7Src1
 
 If you haven't used VSCode before, you should probably familiarize yourself with it if you are going to build your game using PyGame.
 
+VSCode setup for Python:
 https://www.youtube.com/embed/9o4gDQvVkLU?si=odk4pwgKAfwjVAjH
 
 **2. Godot**
@@ -128,15 +140,18 @@ You may and are encouraged to use templates and resources online!
 You can also use AI to generate skeleton code, functions, ideas, etc.
 
 Template Examples:
-* [https://hatmix.itch.io/game-jam-starter-template](https://hatmix.itch.io/game-jam-starter-template)
-* [https://mangomoose.itch.io/web-game-template](https://mangomoose.itch.io/web-game-template)
-* [https://godotengine.org/asset-library/asset/2201](https://godotengine.org/asset-library/asset/2201)
-* [https://godotengine.org/asset-library/asset?page=1&filter=template](https://godotengine.org/asset-library/asset?page=1&filter=template)
-* [https://ifthencreate.itch.io/narrativegametemplate](https://ifthencreate.itch.io/narrativegametemplate)
-* [https://gist.github.com/MatthewJA/7544830](https://gist.github.com/MatthewJA/7544830)
-* [https://api.arcade.academy/en/2.6.17/examples/template_platformer.html](https://api.arcade.academy/en/2.6.17/examples/template_platformer.html)
+* [Beginner PyGame templates](https://gist.github.com/MatthewJA/7544830)
+* [itch.io Game Jam Game Starter Template](https://hatmix.itch.io/game-jam-starter-template)
+* [itch.io Web Game Template](https://mangomoose.itch.io/web-game-template)
+* [Godot 2D Platformer Starter Kit](https://godotengine.org/asset-library/asset/2201)
+* [Godot Templates](https://godotengine.org/asset-library/asset?page=1&filter=template)
+* [Narrative Web Game Template (HTML+CSS+JS)](https://ifthencreate.itch.io/narrativegametemplate)
 
-
+Free Assets you can use 
+* CraftPix 
+* OpenGameArt 
+* itch.io Free Assets 
+* Kenney assets 
 
 ### Constraints and Design Tips
 * **2D only**
@@ -167,9 +182,8 @@ Template Examples:
 
 **Scoping**
 
-Most student teams over-scope. A tiny finished game is better than a big unfinished one!
-
-Finished >>> Perfect! 
+* Most student teams over-scope. A tiny finished game is better than a big unfinished one!
+* Finished > Perfect
 
   * **Good examples:**
 
@@ -181,16 +195,13 @@ Finished >>> Perfect!
     * Open-world RPG ❌
     * Online multiplayer ❌
     * Story-driven adventure ❌
-  * “If your idea sounds like a full Steam game, it’s too big.”
-* **Game = Goal + Obstacle + Feedback**
+* If your idea sounds like a full Steam game, it’s too big.
 
+**Game = Goal + Obstacle + Feedback**
   * **Example:**
 
     * Goal: Survive
     * Obstacle: Falling rocks
     * Feedback: Sound + score
 
-That’s enough for a complete game.
-
-## Submission Process
-TBA
+That’s all you need for a complete game!
