@@ -8,6 +8,7 @@ You can build your game using simple, beginner-friendly tools.
 
 Other engines + tools can be used if you feel comfortable. Just let us know what you will be using.
 
+
 ## 1. Pygame
 
  [Pygame](https://pypi.org/project/pygame-ce/) is a free, open-source library for making 2D games in Python.
@@ -61,7 +62,12 @@ https://www.youtube.com/embed/blLLtdv4tvo?si=lXQ7dtIKV_k7Src1
 
 ## 2. Godot
 
-[Godot](https://godotengine.org/) is a free, open-source game engine used to create 2D and 3D games. It includes built-in tools for graphics, physics, scripting, and scene design, so you can build games without needing many external programs.
+[Godot](https://godotengine.org/) is a free, open-source game engine used to create 2D and 3D games. It includes built-in tools for graphics, physics, scripting, and scene design, so you can **build games without needing many external programs**. 
+
+It also has a full GUI (editor) so you don’t have to code everything. You can design a lot visually!
+* Visual editor with panels (scene tree, inspector, viewport)
+* Drag-and-drop nodes to build your game
+* Built-in tools for 2D/3D, UI, animation, etc.
 
 It’s beginner-friendly thanks to its visual editor and simple scripting language (GDScript, similar to Python), making it easy to prototype and develop complete games quickly.
 
@@ -72,6 +78,7 @@ There are plenty of great tutorials and resources on YouTube and online.
 * [Godot platformer in 20 seconds](https://www.youtube.com/watch?v=thgdTkxeNJY)
 * [Bouncing ball in Godot in 20 seconds](https://www.youtube.com/watch?v=GaT8veJJKOQ)
 
+---
 
 ## General Resources
 You may and are encouraged to use templates and resources online! 
