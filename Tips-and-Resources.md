@@ -2,7 +2,7 @@
 
 You can build your game using simple, beginner-friendly tools.
 
-Recommendations:
+**Recommendations:**
 1. Pygame
 2. Godot
 
@@ -76,6 +76,8 @@ There are plenty of great tutorials and resources on YouTube and online.
 ## General Resources
 You may and are encouraged to use templates and resources online! 
 
+There are lots of helpful Game Jam beginner tips videos on YouTube.
+
 You can also use AI to generate skeleton code, functions, ideas, etc.
 
 Template Examples:
@@ -100,21 +102,20 @@ Free Assets you can use
 
 * **Games should be 2D only**
 
-**Scoping**
+### **Scoping**
+Most student teams over-scope. A tiny finished game is better than a big unfinished one!
+Finished > Perfect
 
-* Most student teams over-scope. A tiny finished game is better than a big unfinished one!
-* Finished > Perfect
+ * **Good examples:**
 
-  * **Good examples:**
+  * Click to stack blocks
+  * Dodge falling objects
+  * Rhythm tapping game
+* **Bad examples:**
 
-    * Click to stack blocks
-    * Dodge falling objects
-    * Rhythm tapping game
-  * **Bad examples:**
-
-    * Open-world RPG ❌
-    * Online multiplayer ❌
-    * Story-driven adventure ❌
+  * Open-world RPG ❌
+  * Online multiplayer ❌
+  * Story-driven adventure ❌
 * If your idea sounds like a full Steam game, it’s too big.
 
 **Game = Goal + Obstacle + Feedback**
@@ -126,34 +127,38 @@ Free Assets you can use
 
 That’s all you need for a complete game!
 
-* **Design Constraint Options (keep it simple)**
 
-  * 🕹️ **One Button Game**
 
-    * Only one input (e.g., spacebar or mouse click)
-    * Examples: Flappy Bird-style, timing-based games, endless runners
-    * 👉 Best beginner-friendly restriction
-  * 🧱 **Single Mechanic Only**
+### **Design Constraints**
+* **Games should be 2D only**
+* 🕹️ **One Button Game**
 
-    * One core interaction (jump, shoot, drag, rotate, etc.)
-    * No combining systems
-  * 📦 **One Screen Game**
+  * Only one input (e.g., spacebar or mouse click)
+  * Examples: Flappy Bird-style, timing-based games, endless runners
+  * 👉 Best beginner-friendly restriction
+* 🧱 **Single Mechanic Only**
 
-    * Everything happens on one screen
-    * No levels, menus, or camera movement
-  * ⏱️ **30 Seconds of Gameplay**
+  * One core interaction (jump, shoot, drag, rotate, etc.)
+  * No combining systems
+* 📦 **One Screen Game**
 
-    * Game must loop or end within 30 seconds
-  * 🎮 **No Player Movement**
+  * Everything happens on one screen
+  * No levels, menus, or camera movement
+* ⏱️ **30 Seconds of Gameplay**
 
-    * Player stays still; game comes to them
-* **Recommended Combination**
-  * Choose at least 2 constraints if you don't want to be in dev purgatory for days!
-  * One button + one screen + 30 seconds
+  * Game must loop or end within 30 seconds
+* 🎮 **No Player Movement**
 
+  * Player stays still; game comes to them
+
+**Recommendation:**
+* Choose at least 2 constraints if you don't want to be in dev purgatory for days!
+* One button + one screen + 30 seconds
 ---
 
 ## Development Process Tips
+This isn't a strict schedule or checklist, but these practices can help you and your team stay informed on how everyone else is doing. These are similar practices to what AGILE software development teams do.
+
 **1. Set a goal for each day.** e.g.:
 * Day 1: Something works 
 * Day 2: Playable (most important) 
@@ -162,7 +167,7 @@ That’s all you need for a complete game!
 * Day 5: Submit!
 
 
-**2. Have a Daily Rhythm.** e.g.:
+**2. Have a basic rhythm for each day.** e.g.:
 
 - **Beginning of day: Quick Check-In with team**
   - Yesterday: what did you do?
@@ -178,7 +183,7 @@ That’s all you need for a complete game!
 
 - 💻 **Build**
   - Build → Test → Fix → Repeat
-  - (Test every ~10–15 min)
+  - (Test every ~10–15 min you're working)
 
 - 🧪 **Quick Test (end of session)**
   - Can someone play it?
@@ -189,4 +194,4 @@ That’s all you need for a complete game!
 
 - **Check Daily Goals**
 
-- **One key rule:** If it’s not playable, stop adding features.
+- **One key rule:** If it’s not playable, stop adding new features!
