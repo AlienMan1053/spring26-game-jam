@@ -41,7 +41,7 @@ https://www.youtube.com/embed/3QYq0HOneIg?si=G8r7SHV0NNSFuqB3
 ## Rules and Guidelines
 1. You are encouraged to brainstorm / begin work sooner!
 2. Teams are optional but recommended (2-4 people)
-   - You can recruit members from other departments! (You might want artists or musicians...)
+   - You can recruit members from other departments! (Do you want original art, music, sound design...?)
 6. 2D games only
 7. Following the theme is optional
 8. Use of AI is allowed as long as you disclose it
@@ -136,44 +136,29 @@ https://www.youtube.com/watch?v=GaT8veJJKOQ
 
 ---
 
-**For more detailed information, see [Tips and Resources](./Tips-and-Resources.md)**
+## 🔍 **For more detailed information, see the [Tips and Resources](./Tips-and-Resources.md) document**
 
-### Resources
+### Overview of Resources
 You may and are encouraged to use templates and resources online! 
 
 You can also use AI to generate skeleton code, functions, ideas, etc.
 
 ### Constraints and Design Tips
-* **2D only**
-* **Design Constraint Options (keep it simple)**
+**Games should be 2D only**
 
-  * 🕹️ **One Button Game**
+**Design Constraint Examples:**
+* 🕹️ **One Button Game**
+* 🧱 **Single Mechanic Only**
+* 📦 **One Screen Game**
+* ⏱️ **30 Seconds of Gameplay**
+* 🎮 **No Player Movement**
 
-    * Only one input (e.g., spacebar or mouse click)
-    * Examples: Flappy Bird-style, timing-based games, endless runners
-    * 👉 Best beginner-friendly restriction
-  * 🧱 **Single Mechanic Only**
-
-    * One core interaction (jump, shoot, drag, rotate, etc.)
-    * No combining systems
-  * 📦 **One Screen Game**
-
-    * Everything happens on one screen
-    * No levels, menus, or camera movement
-  * ⏱️ **30 Seconds of Gameplay**
-
-    * Game must loop or end within 30 seconds
-  * 🎮 **No Player Movement**
-
-    * Player stays still; game comes to them
-* **Recommended Combination**
-  * Choose at least 2 constraints if you don't want to be in dev purgatory for days!
-  * One button + one screen + 30 seconds
+**Recommendation:**
+* Choose at least 2 constraints if you don't want to be in dev purgatory for days!
+* One button + one screen + 30 seconds
 
 **Scoping**
-
-* Most student teams over-scope. A tiny finished game is better than a big unfinished one!
-* Finished > Perfect
+* A tiny finished game is better than a big unfinished one!
 
   * **Good examples:**
 
@@ -196,5 +181,6 @@ You can also use AI to generate skeleton code, functions, ideas, etc.
 
 That’s all you need for a complete game!
 
+---
 
 > Ready to get started? [Register now!](https://forms.office.com/r/bL9EjDPFmX)
