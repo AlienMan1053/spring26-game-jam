@@ -14,7 +14,7 @@ UTC ACM's first Game Jam for all skill levels!
 * have fun
 
 # Getting Started
-[Register here by Apr 5](https://go.utc.edu/gamejam)
+[Register here!](https://go.utc.edu/gamejam)
 
 You must join the Discord server to participate! Link is in the form above.
 
